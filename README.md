@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @solvise
-- 👀 I’m interested in video games 
-- 🌱 I’m currently learning how to write code
-- 💞️ I’m looking to collaborate on learning
+- 👀 I’m interested in video games
 
 <!---
 solvise/solvise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
